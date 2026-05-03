@@ -114,9 +114,8 @@ exam-saathi/
 
 ## 👤 Author
 
-**Tanush Patel**
-- Full-Stack Developer & Freelancer
-- [Portfolio](https://tanushpatel.dev) *(Link to your portfolio if applicable)*
+**Rainy Nagar**
+- Full-Stack Developer
 
 ---
 
